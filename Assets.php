@@ -12,7 +12,7 @@ class Assets extends AssetBundle{
 	public $sourcePath = '@mihaildev/ckeditor/editor';
 
     public $js = [
-        'ckeditor.js',
+        'https://cdn.ckeditor.com/ckeditor5/26.0.0/classic/ckeditor.js',
 		'js.js',
     ];
 
